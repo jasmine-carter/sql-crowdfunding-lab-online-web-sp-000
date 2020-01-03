@@ -6,4 +6,4 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Kitten Mittens', 'Pets', 10000, 01-01-2020);
 
 --users
-INSERT INTO users (name, age) VALUES ('Jasmine Carter', 32)
+INSERT INTO users (name, age) VALUES ('Jasmine Carter', 32);
