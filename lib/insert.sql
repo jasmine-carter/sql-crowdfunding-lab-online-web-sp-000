@@ -3,8 +3,6 @@
 -- users: name, age
 -- pledge: amount, user_id, project_id
 --pledges
---INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Kitten Mittens', 'Pets', 10000, 01-01-2020);
-
 --users
 INSERT INTO users (name, age) VALUES ('Jasmine Carter', 32);
 INSERT INTO users (name, age) VALUES ('Chris Vogt', 36);
@@ -26,3 +24,15 @@ INSERT INTO users (name, age) VALUES ('Lara Croft', 30);
 INSERT INTO users (name, age) VALUES ('Cloud Strife', 24);
 INSERT INTO users (name, age) VALUES ('Tifa Lockheart', 22);
 INSERT INTO users (name, age) VALUES ('Leon Kennedy', 33);
+
+--projects
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Kitten Mittens', 'Pets', 10000, 01-01-2020, 12-31-2020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Raising money for medical bills', 'Charity', 9999, 09-09-2020, 10-30-2020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need to charter a boat', 'Charity', 1001, 11-14-2019, 02-14-2020)
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ()
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
