@@ -3,7 +3,7 @@
 -- users: name, age
 -- pledge: amount, user_id, project_id
 --pledges
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Kitten Mittens', 'Pets', 10000, 01-01-2020);
+--INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Kitten Mittens', 'Pets', 10000, 01-01-2020);
 
 --users
 INSERT INTO users VALUES ('Jasmine Carter', 32);
