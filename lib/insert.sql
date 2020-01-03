@@ -28,11 +28,11 @@ INSERT INTO users (name, age) VALUES ('Leon Kennedy', 33);
 --projects
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Kitten Mittens', 'Pets', 10000, 01-01-2020, 12-31-2020);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Raising money for medical bills', 'Charity', 9999, 09-09-2020, 10-30-2020);
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need to charter a boat', 'Charity', 1001, 11-14-2019, 02-14-2020)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ()
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need to charter a boat', 'Charity', 1001, 11-14-2019, 02-14-2020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need to buy a new washing machine', 'Charity', 800, 10-30-2019, 01-01-2020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need help finding a friend', 'Charity', 2000, 01-01-2019, 03-10-2020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Materia Things', 'Charity', 9999, 04-04-2020, 05-05-2020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
