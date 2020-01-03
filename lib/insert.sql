@@ -32,7 +32,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need to buy a new washing machine', 'Charity', 800, 10-30-2019, 01-01-2020);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need help finding a friend', 'Charity', 2000, 01-01-2019, 03-10-2020);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Materia Things', 'Charity', 9999, 04-04-2020, 05-05-2020);
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Money for Flowers', 'Small Business', 100, 11-14-2019, 11-30-2019);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need a new car', 'Charity', 30000, 12-1-2019, 01-30-2019);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Rum Ham', 'Small Busines', 400, 09-10-2019, 11-11-2019);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Need a new cabbage cart', 'Charity', 6000, 08-22-2019, 11-11-2020);
